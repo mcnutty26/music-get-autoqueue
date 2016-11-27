@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "music-get autoqueue",
+  "description": "This extension queues the current URL on the music server",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "http://music.lan/"
+  ],
+  "icons": { "16": "icon16.png",
+	         "48": "icon32.png",
+			 "128": "icon96.png" 
+  }
+}
+
