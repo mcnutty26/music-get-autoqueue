@@ -1,9 +1,10 @@
 {
   "manifest_version": 2,
 
-  "name": "music-get autoqueue",
+  "name": "music-get-autoqueue",
   "description": "This extension queues the current URL on the music server",
-  "version": "1.0",
+  "version": "1.1",
+  "short_name": "music-get",
 
   "browser_action": {
     "default_popup": "popup.html"
