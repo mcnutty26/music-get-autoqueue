@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "music-get-autoqueue",
-  "description": "This extension queues the current URL on the music server",
+  "description": "Clicking the button queues whatever's at the current tab's URL to the music server.",
   "version": "1.1",
   "short_name": "music-get",
 
