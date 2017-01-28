@@ -1,5 +1,5 @@
 # music-get-autoqueue
-Adds a button to your browser which queues whatever's in the current tab to music-get.
+Adds a button to your browser which queues whatever's in the current tab to music-get. Designed to work with [music-get](https://github.com/mcnutty26/music-get).
 
 ##Add to Chrome
 Available in the chrome store at:
